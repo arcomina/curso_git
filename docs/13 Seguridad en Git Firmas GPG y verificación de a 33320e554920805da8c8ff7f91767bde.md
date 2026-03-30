@@ -86,3 +86,5 @@ Si trabajas en un proyecto de código abierto y recibes una contribución de una
 - **Autenticidad:** Asegura que el autor es real.
 - **No repudio:** El autor no puede negar haber escrito ese código después de firmarlo.
 - **Herramienta estándar:** OpenPGP / GPG..
+
+[⬅️ Volver al Inicio](README.md)

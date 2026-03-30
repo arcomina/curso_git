@@ -60,3 +60,5 @@ Si haces un cambio en el archivo (Estado 1) pero **no** haces `add` ni `commit`,
 - **Naturaleza:** Es un repositorio completo en otra ubicación.
 - **Comando de conexión:** `git remote add origin <url>`.
 - **Interacción:** Se basa en la comparación de hashes entre tu base de datos y la del servidor.
+
+[⬅️ Volver al Inicio](README.md)

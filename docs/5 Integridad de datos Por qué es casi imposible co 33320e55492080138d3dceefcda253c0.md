@@ -81,3 +81,5 @@ Un virus modifica un archivo dentro del **Commit A**.
 - **Herramienta:** Hash SHA-1 (40 caracteres).
 - **Alcance:** Archivos, directorios y mensajes de commit.
 - **Resultado:** Es virtualmente imposible inyectar cambios en el historial sin que Git lo detecte instantáneamente.
+
+[⬅️ Volver al Inicio](README.md)

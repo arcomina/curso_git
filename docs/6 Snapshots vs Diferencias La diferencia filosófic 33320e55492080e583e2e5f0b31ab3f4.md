@@ -55,3 +55,5 @@ Tienes un proyecto con 100 fotos de alta resolución (10MB cada una). Solo edita
 
 - **Otros sistemas:** Almacenan cambios (Deltas). Priorizan el ahorro de espacio teórico sobre la velocidad.
 - **Git:** Almacena fotos del estado actual (Snapshots). Prioriza la velocidad, la integridad y la facilidad de ramificación.
+
+[⬅️ Volver al Inicio](README.md)

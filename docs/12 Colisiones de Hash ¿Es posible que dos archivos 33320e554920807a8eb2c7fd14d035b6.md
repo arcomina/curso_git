@@ -75,3 +75,5 @@ Debido a que el SHA-1 ya no se considera "seguro" contra ataques de estados-naci
 - **Probabilidad accidental:** Virtualmente cero.
 - **Vulnerabilidad:** Existe solo mediante ataques computacionales masivos.
 - **Seguridad actual:** Git utiliza versiones "reforzadas" del algoritmo para detectar manipulaciones.
+
+[⬅️ Volver al Inicio](README.md)

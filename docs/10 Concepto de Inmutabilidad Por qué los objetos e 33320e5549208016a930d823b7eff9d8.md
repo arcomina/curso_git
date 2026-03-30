@@ -62,3 +62,5 @@ Aquí es donde entra la "magia" de Git. Aunque filosóficamente es inmutable y c
 - **Regla de oro:** Los objetos existentes en `.git/objects` no se tocan.
 - **Consecuencia:** Puedes hacer "deshacer" (undo) de casi cualquier cosa en Git, porque el estado anterior sigue guardado en alguna parte del disco.
 - **Hash:** Es la garantía de que el objeto es el que dice ser.
+
+[⬅️ Volver al Inicio](README.md)

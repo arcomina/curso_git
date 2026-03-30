@@ -72,3 +72,5 @@ Has estado trabajando toda la mañana.
 - **Modified:** Cambios realizados pero no rastreados para el próximo commit.
 - **Staged:** Cambios marcados para ser incluidos en la próxima fotografía.
 - **Committed:** Cambios guardados de forma segura en la base de datos local.
+  
+[⬅️ Volver al Inicio](README.md)
