@@ -13,7 +13,7 @@
 * [Concepto de Inmutabilidad: Por qué los objetos en Git no se modifican, se crean nuevos.](10%20Concepto%20de%20Inmutabilidad%20Por%20qué%20los%20objetos%20e%2033320e5549208016a930d823b7eff9d8.md)
 * [El Algoritmo SHA-1: Cómo se generan los hashes de 40 caracteres.](11%20El%20Algoritmo%20SHA-1%20Cómo%20se%20generan%20los%20hashes%20d%2033320e55492080898eb0c4fe3b1c253a.md)
 * [Colisiones de Hash: ¿Es posible que dos archivos tengan el mismo ID?](12%20Colisiones%20de%20Hash%20¿Es%20posible%20que%20dos%20archivos%2033320e554920807a8eb2c7fd14d035b6.md)
-* [Seguridad en Git: Firmas GPG y verificación de autores.]()
+* [Seguridad en Git: Firmas GPG y verificación de autores.](13%20Seguridad%20en%20Git%20Firmas%20GPG%20y%20verificación%20de%20a%2033320e554920805da8c8ff7f91767bde.md)
 * []()
 * []()
 * []()
