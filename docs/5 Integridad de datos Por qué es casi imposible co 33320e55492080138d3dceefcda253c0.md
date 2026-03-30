@@ -82,4 +82,4 @@ Un virus modifica un archivo dentro del **Commit A**.
 - **Alcance:** Archivos, directorios y mensajes de commit.
 - **Resultado:** Es virtualmente imposible inyectar cambios en el historial sin que Git lo detecte instantáneamente.
 
-[⬅️ Volver al Inicio](README.md)
+[⬅️ Volver al Inicio](../README.md)

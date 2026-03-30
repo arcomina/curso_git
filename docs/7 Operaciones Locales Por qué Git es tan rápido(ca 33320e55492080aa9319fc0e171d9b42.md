@@ -57,4 +57,4 @@ Ahora, intenta imaginar hacer eso en un sistema donde el historial vive en un se
 - **Rendimiento:** Limitado solo por la velocidad de tu disco (I/O) y CPU.
 - **Ventaja:** Permite trabajar en aviones, trenes o lugares con mala conexión sin perder ni un ápice de potencia de control de versiones.
 
-[⬅️ Volver al Inicio](README.md)
+[⬅️ Volver al Inicio](../README.md)

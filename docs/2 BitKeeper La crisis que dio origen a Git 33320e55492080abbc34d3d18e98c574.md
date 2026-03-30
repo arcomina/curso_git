@@ -64,4 +64,5 @@ La crisis de BitKeeper le enseñó a Linus que **no se puede confiar en un softw
 - **BitKeeper:** El precursor distribuido pero propietario.
 - **La crisis:** La pérdida de licencia por conflicto de intereses.
 - **La consecuencia:** El nacimiento de Git como una herramienta que garantiza la **soberanía tecnológica** del desarrollador.
-- [⬅️ Volver al Inicio](README.md)
+  
+[⬅️ Volver al Inicio](../README.md)

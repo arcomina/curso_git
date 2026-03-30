@@ -73,4 +73,4 @@ Si quieres enviar tus cambios a un servidor, usas `git push`. Si quieres traer l
 - **Basado en el Grafo (DAG):** Permite ramificaciones complejas y fusiones seguras.
 - **Optimizado para la seguridad:** La historia es inmutable y redundante por diseño.
 
-[⬅️ Volver al Inicio](README.md)
+[⬅️ Volver al Inicio](../README.md)

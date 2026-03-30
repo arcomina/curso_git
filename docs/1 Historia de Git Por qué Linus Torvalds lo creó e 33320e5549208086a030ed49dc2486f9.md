@@ -65,4 +65,5 @@ Para que entiendas la filosofía de "integridad" y "snapshots" de Linus, analiza
 - **Nombre:** "Git" (argot británico para "imbécil" o "persona desagradable"). Linus dijo: "Soy un egocéntrico, así que nombro mis proyectos como yo: Linux, y ahora Git".
 - **Lenguaje:** C (para máxima velocidad y acceso a bajo nivel del sistema de archivos).
 - **Legado:** Hoy el 90% del software del mundo se gestiona con Git.
-- [⬅️ Volver al Inicio](README.md)
+  
+[⬅️ Volver al Inicio](../README.md)

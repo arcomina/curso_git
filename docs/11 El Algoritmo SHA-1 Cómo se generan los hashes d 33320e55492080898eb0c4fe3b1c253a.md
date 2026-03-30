@@ -86,4 +86,4 @@ Cuando Git genera el hash, por ejemplo: `d670460b4b4aece5915caf5c68d12f560a9fe3e
 - **Función:** Identificador único universal del contenido.
 - **Seguridad:** Garantiza que el historial no ha sido alterado.
 
-[⬅️ Volver al Inicio](README.md)
+[⬅️ Volver al Inicio](../README.md)

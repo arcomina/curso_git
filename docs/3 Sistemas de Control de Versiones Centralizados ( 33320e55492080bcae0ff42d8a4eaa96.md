@@ -59,4 +59,4 @@ Trabajas en una empresa que usa **SVN**. De repente, un rayo cae en el centro de
 - **Modelo:** Cliente-Servidor puro.
 - **Riesgo:** Si el servidor cae, el historial muere y la productividad se detiene.
 
-[⬅️ Volver al Inicio](README.md)
+[⬅️ Volver al Inicio](../README.md)
