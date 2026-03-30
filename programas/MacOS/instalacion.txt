@@ -1,0 +1,22 @@
+There are several options for installing Git on macOS. Note that any non-source distributions are provided by third parties, and may not be up to date with the latest source release.
+
+Choose one of the following options for installing Git on macOS:
+Homebrew
+
+Install homebrew if you don't already have it, then:
+$ brew install git
+MacPorts
+
+Install MacPorts if you don't already have it, then:
+$ sudo port install git
+Xcode Command Line Tools
+
+Apple ships a binary package of Git with Xcode Command Line Tools. You can install this via:
+$ xcode-select --install
+Binary installer
+
+Tim Harper provided an installer for Git until version 2.33.0 / 2021. These installers are no longer linked from here because there are no updates since that version, nor are there plans to provide any.
+Installing git-gui
+
+If you would like to install git-gui and gitk, git's commit GUI and interactive history browser, you can do so using homebrew
+$ brew install git-gui
